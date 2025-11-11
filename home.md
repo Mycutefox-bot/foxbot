@@ -1,18 +1,26 @@
-# 欢迎来到简单WIKI
-![alt text](logo.webp)
+# 欢迎来到狐狐伯特WIKI
+![alt text](foxlogo.webp)
 
-## 功能特点
+> 超可爱kemomimi酱！
 
-- 支持Markdown格式渲染
-- 响应式设计，适配不同设备
-- 动态加载导航菜单
-- 安全的内容渲染
+## 关于创作者
+
+- 什么是创作者？嗷呜！听起来好有趣！能和小狐狸讲讲吗（期待的眼神）awa
 
 ## 快速开始
 
-1. 点击左侧导航菜单浏览不同文档
-2. 内容区将显示渲染后的Markdown内容
+- 嗷呜！开始什么？吃肉吗！（口水流了下来）qwq
 
-## Star History
+## 关于狐务器
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SnowBall-Bqiu/easywiki&type=Date)](https://www.star-history.com/#SnowBall-Bqiu/easywiki&Date)
+- 呃这个没啥好介绍的，下一个！
+
+## 关于赞助
+
+- 赞助一开始是没想过的，但是如果你想赞助可以联系管理员2659063802哦
+
+## 后言
+
+- 这只是一个测试文档...真的，我都不知道要写什么
+
+> 啥也不是，散会！
