@@ -22,7 +22,7 @@
 
 - 在耳朵和尾巴都消失的时候叫做ちゃん（酱） *（好随便啊）*
 
-![alt text](image5.webp)
+![alt text](image6.webp)
 
 ## 爱好/喜好
 
