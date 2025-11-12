@@ -30,18 +30,11 @@
      {
       "title": "友情赞助",
       "link": "friends.md"
-    },
-     {
-      "title": "Q&A",
-      "children": [
-        {
-          "title": "test",
-          "link": "wiki.md"
-        }
-      ]
     }
   ]
 }
+
+
 
 
 
