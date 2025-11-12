@@ -2,7 +2,7 @@
 
 > 超可爱kemomimi酱！
 
-![alt text](image1.webp)
+![alt text](/p/image1.webp)
 
 ------------
 
@@ -25,6 +25,7 @@
 ## 后言
 
 - 这只是一个测试wiki...真的，我都不知道要写什么
+
 
 
 
