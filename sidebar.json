@@ -33,10 +33,16 @@
     },
      {
       "title": "Q&A",
-      "link": "Q&A.md"
+      "children": [
+        {
+          "title": "怎么部署和这个一样的wiki",
+          "link": "wiki.md"
+        }
+      ]
     }
   ]
 }
+
 
 
 
