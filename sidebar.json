@@ -26,9 +26,18 @@
     {
       "title": "帮助",
       "link": "helps.md"
+    },
+     {
+      "title": "友情赞助",
+      "link": "friends.md"
+    },
+     {
+      "title": "Q&A",
+      "link": "Q&A.md"
     }
   ]
 }
+
 
 
 
