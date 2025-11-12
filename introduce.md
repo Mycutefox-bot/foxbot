@@ -7,7 +7,9 @@
 - ケモミミちゃん，也就是ケモノ（兽）- ミミ（耳）- ちゃん（酱）*（这名字也太随便了）*
 
 - 首次出现是在2016年9月10日，画师naga u/ながユー在P站的发布
+
 ![alt text](/p/image2.webp)
+
 ![alt text](/p/image3.webp)
 
 ## kemomimi特点
@@ -35,4 +37,5 @@
 
 ## 外部链接
 - 文献来源于[萌娘百科-兽耳酱](https://zh.moegirl.org.cn/%E5%85%BD%E8%80%B3%E9%85%B1)
+
 - 原作者    [P站-需梯](https://www.pixiv.net/member.php?id=2509595)
