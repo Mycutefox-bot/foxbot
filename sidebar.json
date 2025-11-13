@@ -28,17 +28,18 @@
       "link": "helps.md"
     },
     {
-      "title": "示例文档",
+      "title": "鸣谢名单",
       "children": [
         {
-          "title": "API 接口",
-          "link": "api.md"
+          "title": "技术支持",
+          "link": "friends.md"
         },
         {
-          "title": "教程",
-          "link": "qa.md"
+          "title": "赞助者",
+          "link": "money.md"
         }
        ]
       }
   ]
 }
+
